@@ -1,8 +1,13 @@
-[技術部落格](https://shuantt.github.io/)
-**shuantt/shuantt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![shunatt's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shuantt&theme=vue-dark&line_height=22&layout=compact&hide=less)
+還很空：https://shuantt.github.io/ 
+<br/>
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuantt&layout=compact)
+<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuantt&show_icons=true&theme=transparent&hide=prs,issues)
+
 
 <!--Here are some ideas to get you started:
+**shuantt/shuantt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
