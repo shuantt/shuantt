@@ -2,9 +2,9 @@
 - [部落格](https://shuantt.github.io/)
 - 目前工作為 .net 後端
 #### 技能樹:
-- 前端: tailwindcss, Bootsrap 5, vue3/composition api, nuxt3
-- 後端: .net core/framework (mvc/webform/web api ...)
-- 資料庫: MS SQL (EF/Dapper/Store Procedure) / MongoDB (Mongoose)
+- 前端: tailwindcss / Bootsrap 5 / vue3 (composition api) / nuxt3
+- 後端: .net (mvc/webform/web api) / node.js (express)
+- 資料庫: MSSQL (EF/Dapper/Store Procedure) / MongoDB (Mongoose)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuantt&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuantt&show_icons=true&theme=transparent&hide=prs)
