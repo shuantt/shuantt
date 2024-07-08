@@ -1,6 +1,6 @@
 #### 轉職工程師
 - [部落格](https://shuantt.github.io/)
-- 目前職位: 1.5y .net 後端工程師 (部分前端但較少)
+- 目前為 1.5y .net 後端
 #### 技能樹:
 - 前端: tailwindcss, Bootsrap 5, vue3/composition api, nuxt3
 - 後端: .net core/framework (mvc/webform/web api ...)
