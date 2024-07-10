@@ -1,10 +1,13 @@
-#### Web Developer
-- [My Blog / 個人網站](https://shuantt.github.io/)
-- Current 1.5y .NET Back-End Developer
-#### Tech Tree
-- **Front-End:** Tailwind CSS / Bootstrap 5 / Vue 3 (Composition API) / Nuxt 3
-- **Back-End:** .NET (MVC/WebForm/Web API) / Node.js (Express)
-- **Database:** MSSQL (EF/Dapper/Stored Procedure) / MongoDB (Mongoose)
+## Welcome
+Hi, this is **Shuan**. Here is something about me:
+- Switched career from design to tech (Still a noob!)
+- Currently a .NET Back-End Developer with 1.5 years of experience
+- [Blog / 個人網站](https://shuantt.github.io/)
+
+## Tech Stack
+- **Front-End:** Tailwind CSS / Vue 3 (Nuxt 3)
+- **Back-End:** C# .NET / Node.js (Express)
+- **Database:** MSSQL (EF/Dapper/Store Procedure) / MongoDB (Mongoose)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuantt&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuantt&show_icons=true&theme=transparent&hide=prs)
