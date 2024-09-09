@@ -1,6 +1,6 @@
 ## Welcome
 Hi, this is **Shuan**. Here is something about me:
-- Switched career from design to tech (Still a noob!)
+- Switched career from design to tech
 - Currently a .NET Back-End Developer with 1.5 years of experience
 - [Blog / 個人網站](https://shuantt.github.io/)
 
