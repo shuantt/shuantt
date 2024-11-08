@@ -5,14 +5,14 @@ Hi, this is **Shuan**. Here is something about me:
 - [Blog / 個人網站](https://shuantt.github.io/)
 
 ## Tech Stack
-- **Front-End:** Tailwind CSS / Vue 3 (Nuxt 3) / Currently learning React
+- **Front-End:** Tailwind CSS / Vue 3 (Nuxt 3) / Learning React
 - **Back-End:** C# .NET / Node.js (Express)
-- **Database:** MSSQL / MySQL / MongoDB / Database deployment & management (Windows, Linux)
-- **DevOps & Deployment:** 
-  - Windows (IIS): Deploying .NET apps
-  - VPS (Linux): Deploying apps on Linode, configuring Nginx for Node.js
-  - CI/CD: GitHub Actions
-  - Cloud: Currently learning AWS EC2 & S3 
+- **Database:** MSSQL / MySQL / MongoDB / Database deployment & management
+- **DevOps & Deployment Experience:** 
+  - **Windows:** Deploying .NET apps to IIS
+  - **Linux:** Deploying Node.js apps to Linode VPS with Nginx & pm2
+  - **CI/CD:** GitHub Actions
+  - **Cloud:** Currently learning AWS EC2 & S3 
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuantt&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuantt&show_icons=true&theme=transparent&hide=prs)
