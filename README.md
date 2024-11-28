@@ -2,7 +2,8 @@
 Hi, this is **Shuan**. Here is something about me:
 - Switched career from design to tech
 - Currently a .NET Back-End Developer with 1.5 years of experience
-- [My Blog / 個人網站](https://shuan-blog.vercel.app/)
+- [Shuan.Blog / 個人網站](https://shuan-blog.vercel.app/)
+- [Shuan.Dev / 技術筆記專用](https://shuan-technotes.vercel.app/)
 
 ## Tech Stack
 - **Front-End:** Tailwind CSS / Vue 3 (Nuxt 3) / Learning React
