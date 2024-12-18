@@ -6,13 +6,12 @@ Hi, this is **Shuan**. Here is something about me:
 - [Shuan.Dev / 技術筆記專用](https://shuan-technotes.vercel.app/)
 
 ## Tech Stack
-- **Front-End:** Tailwind CSS / Vue 3 (Nuxt 3) / Learning React
+- **Front-End:** Tailwind CSS / Vue 3 (Nuxt 3) / React
 - **Back-End:** C# .NET / Node.js (Express)
 - **Database:** MSSQL / MySQL / MongoDB / Database deployment & management
 - **DevOps & Deployment Experience:** 
   - **Windows:** Deploying .NET apps to IIS
   - **Linux:** Deploying Node.js apps to Linode VPS with Nginx & pm2
-  - **Cloud:** Currently learning AWS EC2 & S3 
   - **CI/CD:** GitHub Actions
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuantt&layout=compact)
