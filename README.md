@@ -13,9 +13,6 @@ Hi, this is **Shuan**. Here is something about me:
   - **Windows:** Deploying .NET apps to IIS
   - **Linux:** Deploying Node.js apps to Linode VPS with Nginx & pm2
   - **CI/CD:** GitHub Actions
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuantt&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuantt&show_icons=true&theme=transparent&hide=prs)
 
 <!--Here are some ideas to get you started:
 **shuantt/shuantt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
