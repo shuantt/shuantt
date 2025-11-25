@@ -1,7 +1,7 @@
 ## Welcome
 Hi, this is **Shuan**. Here is something about me:
 - Switched career from design to tech
-- Currently a .NET Back-End Developer with 1.5 years of experience
+- Currently Full Stack Developer with 3 years of experience
 - [Shuan.Blog](https://blog.shuantt.com/)
 - [Shuan.Dev](https://technote.shuantt.com/)
 
