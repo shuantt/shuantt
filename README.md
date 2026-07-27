@@ -3,7 +3,6 @@ Hi, this is **Shuan**. Here is something about me:
 - Switched career from design to tech
 - Currently Full Stack Developer with 3 years of experience
 - [Shuan.Blog](https://blog.shuantt.com/)
-- [Shuan.Dev](https://technote.shuantt.com/)
 
 ## Tech Stack
 - **Front-End:** Tailwind CSS / BS5 / Vue 3 (Nuxt 3) / React /JQuery
