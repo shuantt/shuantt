@@ -1,8 +1,11 @@
-## Welcome
-Hi, this is **Shuan**. Here is something about me:
+# Shuan Tseng | SHUANTT
+Hi, this is **Shuan Tseng (shuantt)**. Here is something about me:
 - Switched career from design to tech
 - Currently Full Stack Developer with 3 years of experience
-- [SHUANTT's Blog](https://blog.shuantt.com/)
+- [SHUANTT — 個人部落格 / Personal Blog](https://blog.shuantt.com/)
+
+I write about product development, learning, and everyday life on my blog.
+部落格記錄產品開發、學習成長與生活紀錄。
 
 ## Tech Stack
 - **Front-End:** Tailwind CSS / BS5 / Vue 3 (Nuxt 3) / React /JQuery
